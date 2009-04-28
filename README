@@ -1,0 +1,8 @@
+-*- Mode: Org -*-
+
+(Emacs users: use C-c C-a to show everything)
+
+* Random notes
+
+This library does not handle bus resets very well. In fact, it doesn't
+handle them at all...
